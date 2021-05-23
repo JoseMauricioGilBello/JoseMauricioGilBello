@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**JoseMauricioGilBello/JoseMauricioGilBello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Jose Mauricio Gil  Bello, I am a passionate and experienced Data Engineer from Colombia. 
 
-Here are some ideas to get you started:
+* 👩🏻‍💻  I am currently working as a Data Engineer at Aval Digital Labs, where I'm implementing scalable Data Pipelines for clients of financilas sectors.
+* 🌟 I had worked with data for 6 years.
+* 🤓 I like to learn new tecnologies, and share my knowledge and expertise with my colleagues.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Lenguaje and Tools
+![Python](https://camo.githubusercontent.com/a71f1a20d58a3506dd5f32dcb31461bd5102a0bd33dbf49db9195c589eaca8d7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2532302d2532333134333534432e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465)
+![R](https://camo.githubusercontent.com/f36ecad936824229a1ddaa74986d26f514075182f0904de2679edfb11c666d85/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f722d2532333237364443332e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d72266c6f676f436f6c6f723d7768697465)
+![SQL](https://camo.githubusercontent.com/3f447cb46912258ee0596ef703c04d424be1d998adeaccd288afc67aa0b61daf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53514c2532302d2532333030662e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465)
+![AWS](https://camo.githubusercontent.com/a9a6331c55317d11d34ac8978cc80493d91e4b4a1bedfe3ec7b5d7610d007a47/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4157532532302d2532334646393930302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d616d617a6f6e2d617773266c6f676f436f6c6f723d7768697465)
+
+### Find me at:
+![Linkedin](https://camo.githubusercontent.com/ecfc63b4660f6304624766db1d09fe1b520e58659783a5ec8449323c04ef2023/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2532302d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465)
+[![Twitter](https://camo.githubusercontent.com/92c4a00b0aa469e47bdc21980d81be229b895020164978c1b0e6079736ad03d7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547769747465722532302d2532333144413146322e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d54776974746572266c6f676f436f6c6f723d7768697465)](https://twitter.com/JoseMauricioGi7)
