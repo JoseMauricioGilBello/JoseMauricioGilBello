@@ -3,7 +3,7 @@
 My name is Jose Mauricio Gil  Bello, I am a passionate and experienced Data Engineer from Colombia. 
 
 * 👩🏻‍💻  I am currently working as a Senior Data Engineer at Perficient LATAM, where I'm implementing scalable Data Pipelines for clients of multiple sectors.
-* 🌟 I had worked with data for 7 years.
+* 🌟 I had worked with data for 8 years.
 * 🤓 I like to learn new tecnologies, and share my knowledge and expertise with my colleagues.
 
 ### Lenguaje and Tools
